@@ -1,5 +1,5 @@
 {
-  "dataApiHostName": "fqdn-apic.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "dataApiHostName": "demo-apic.data.westeurope.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
   "authentication": {
       "clientId": "a5827cc6-b05d-4b7b-b213-c0a06c59a52e",
